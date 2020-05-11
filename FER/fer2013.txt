@@ -1,1 +1,2 @@
-TMP
+Insert in this directory the csv file from here: https://www.kaggle.com/deadskull7/fer2013
+After the csv file is in the FER directory, Main.py can be run from the py folder in order to generate the files.
